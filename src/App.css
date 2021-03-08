@@ -115,8 +115,18 @@ nav ul li{
   z-index: 1;
 }
 
-.main-info h1 {
+.main-info h4 {
   color: var(--primary-gold);
+  text-transform: uppercase;
+}
+
+.main-info h3 {
+  color: var(--primary-gold);
+  text-transform: uppercase;
+}
+
+.main-info h1 {
+  color: var(--primary-white);
   text-transform: uppercase;
 }
 
